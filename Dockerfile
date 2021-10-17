@@ -1,4 +1,4 @@
-FROM anasty17/mirror-leech:latest
+FROM fr3akyphantom/ttk_multiplatform:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
